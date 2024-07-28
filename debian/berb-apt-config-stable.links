@@ -1,0 +1,2 @@
+/usr/share/berb-apt-config/sources.list.d/berb-stable.sources /etc/apt/sources.list.d/berb-stable.sources
+/usr/share/berb-apt-config/preferences.d/10-berb-stable /etc/apt/preferences.d/10-berb-stable
