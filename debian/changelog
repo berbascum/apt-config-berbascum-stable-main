@@ -1,0 +1,7 @@
+berb-apt-config-stable (0.0.1+git20240728121546.db8f51c.stable) stable; urgency=medium
+
+  [berbascum]
+  * (db8f51c) Add the Debian packaging dir 
+  * (ebae561) Add pkg_rootfs with the files to be installed 
+
+ -- berbascum <berbascum@ticv.cat>  Sun, 28 Jul 2024 12:15:46 +0200
