@@ -3,4 +3,4 @@ debian/debhelper-build-stamp
 debian/files
 debian/berb-apt-config-stable.substvars
 debian/berb-apt-config-stable/
-
+out-berb-apt-config-stable/
