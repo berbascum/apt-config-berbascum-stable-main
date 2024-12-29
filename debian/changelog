@@ -1,7 +1,10 @@
-berb-apt-config-stable (0.0.1+git20240728121546.db8f51c.stable) stable; urgency=medium
+berb-apt-config-stable (0.0.2+git20241229232059.1cbbacf.stable) stable; urgency=medium
 
   [berbascum]
+  * (1cbbacf) (gitignore) outdir: exclude the output dir from git tracking 
+  * (c8bd376) (preferences) pin: fix the Pin definition 
+  * (5a4de32) Build release: pre-configs before building new version 0.0.1-stable 
   * (db8f51c) Add the Debian packaging dir 
   * (ebae561) Add pkg_rootfs with the files to be installed 
 
- -- berbascum <berbascum@ticv.cat>  Sun, 28 Jul 2024 12:15:46 +0200
+ -- berbascum <berbascum@ticv.cat>  Sun, 29 Dec 2024 23:20:59 +0100
