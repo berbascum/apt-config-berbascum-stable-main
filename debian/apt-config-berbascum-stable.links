@@ -1,0 +1,2 @@
+/usr/share/apt-config-berbascum/sources.list.d/berbascum-stable.sources /etc/apt/sources.list.d/berbascum-stable.sources
+/usr/share/apt-config-berbascum/preferences.d/10-berbascum-stable /etc/apt/preferences.d/10-berbascum-stable

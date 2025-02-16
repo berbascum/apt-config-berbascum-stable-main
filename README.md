@@ -1,1 +1,1 @@
-# berb-apt-config-stable
+# apt-config-berbascum-stable

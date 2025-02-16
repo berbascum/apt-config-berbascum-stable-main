@@ -1,10 +1,14 @@
-berb-apt-config-stable (0.0.2+git20241229232059.1cbbacf.stable) stable; urgency=medium
+apt-config-berbascum-stable (0.0.3+git20250216223433.ded1bf8.main.stable) stable; urgency=medium
 
-  [berbascum]
-  * (1cbbacf) (gitignore) outdir: exclude the output dir from git tracking 
-  * (c8bd376) (preferences) pin: fix the Pin definition 
-  * (5a4de32) Build release: pre-configs before building new version 0.0.1-stable 
-  * (db8f51c) Add the Debian packaging dir 
-  * (ebae561) Add pkg_rootfs with the files to be installed 
+  [ berbascum ]
+  * ded1bf8 (bdm) config: add the local config file
+  * f47b5f2 Rename-package: apt-config-berbascum-testing
 
- -- berbascum <berbascum@ticv.cat>  Sun, 29 Dec 2024 23:20:59 +0100
+ -- berbascum <berbascum@ticv.cat>  Sun, 16 Feb 2025 22:35:50 +0100
+
+apt-config-berbascum-testing (0.0.2+git20241229232641.df2b906.main.stable) stable; urgency=medium
+
+  [ berbascum ]
+  * c3eca6c (preferences) pin: fix the Pin definition
+
+ -- berbascum <berbascum@ticv.cat>  Sun, 16 Feb 2025 22:35:50 +0100

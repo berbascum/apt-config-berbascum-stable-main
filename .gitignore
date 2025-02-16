@@ -1,6 +1,8 @@
 debian/.debhelper/
 debian/debhelper-build-stamp
 debian/files
-debian/berb-apt-config-stable.substvars
-debian/berb-apt-config-stable/
-out-berb-apt-config-stable/
+bdm-script-spl-build-debian-package.sh
+bdm_build-debian-package.log
+debian/apt-config-berbascum-stable.substvars
+debian/apt-config-berbascum-stable/
+out-apt-config-berbascum-stable/
