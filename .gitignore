@@ -3,6 +3,6 @@ debian/debhelper-build-stamp
 debian/files
 bdm-script-spl-build-debian-package.sh
 bdm_build-debian-package.log
-debian/apt-config-berbascum-stable.substvars
-debian/apt-config-berbascum-stable/
-out-apt-config-berbascum-stable/
+debian/apt-config-berbascum-stable-main.substvars
+debian/apt-config-berbascum-stable-main/
+out-apt-config-berbascum-stable-main/

@@ -1,4 +1,4 @@
-Source: apt-config-berbascum-stable
+Source: apt-config-berbascum-stable-main
 Maintainer: berbascum <berbascum@ticv.cat>
 Section: misc
 Priority: optional
@@ -6,10 +6,10 @@ Build-Depends: debhelper (>= 10),
                debhelper-compat (= 13),
 Standards-Version: 4.5.0.3
 
-Package: apt-config-berbascum-stable
+Package: apt-config-berbascum-stable-main
 Architecture: all
 Pre-Depends: apt,
 Depends: ${misc:Depends},
          ca-certificates,
          apt-keyrings-berbascum,
-Description: APT configs for Berbascum's github stable apt repo
+Description: APT configs for Berbascum's github stable-main apt repo
